@@ -25,9 +25,9 @@ Nad maticí průměrných ročních příspěvků (2000–2023) provede k-means 
 
 | Shluk | Charakteristika | Příklad zemí |
 |---|---|---|
-| Demografický tlak | Vysoký populační růst, rostoucí energetická náročnost | Katar, SAE, Saúdská Arábie aj.|
-| Ekonomický růst | Silný růst HDP, emise rostou | Čína, Indie, Vietnam aj.|
-| Dekarbonizace | Růst HDP kompenzován poklesem energetické náročnosti, emise stagnují | ČR, Německo, USA, Rusko aj.|
+| Vývozci fosilních surovin | Vysoký populační růst, rostoucí energetická náročnost | Katar, SAE, Saúdská Arábie aj.|
+| Rozvoj průmyslu| Silný růst HDP, emise rostou | Čína, Indie, Vietnam aj.|
+| Decoupling | Růst HDP kompenzován poklesem energetické náročnosti, emise stagnují | ČR, Německo, USA, Rusko aj.|
 
 ## Výstupy
 
